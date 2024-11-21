@@ -1,2 +1,2 @@
 # Gater73.github.io
-Portfolio
+Oficial repo for my portfolio.
